@@ -3,6 +3,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
 
 
+
 Base = declarative_base()
 
 
@@ -11,10 +12,10 @@ class User(Base):
     __tablename__ = "person"
 
     id = Column('id',Integer, primary_key=True)
-    username = Column('username', String, unique=True)
+    username = Column('username', String(16), unique=True)
 
 ## Creating the table defined above
-engine = create_engine('sqlite:///:memory:', echo=True)
+engine = create_engine('mysql+pymysql://root:1234@127.0.0.1:3306/employee')
 Base.metadata.create_all(bind=engine)
 Session = sessionmaker(bind=engine)
 
