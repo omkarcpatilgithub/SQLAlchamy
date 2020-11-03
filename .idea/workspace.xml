@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4d8d6d-21a4-450e-966d-0ed2652a44b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/advance/one_to_many.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advance/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask SQLAlchemy basics/flask_run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask SQLAlchemy basics/flaskalchemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conn.py" beforeDir="false" afterPath="$PROJECT_DIR$/conn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advance/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/advance/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +46,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602740556634">
+    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604374144976">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602740556634" />
+    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604374144976" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603656912132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603656912132" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1602425970464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602425970464" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1603016316535">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1603082927236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603016316535" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603082927236" />
   </component>
 </project>
